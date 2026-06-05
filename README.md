@@ -1,9 +1,9 @@
 # NØNOS Wallpapers
 
-The wallpaper collection shipped with the NØNOS desktop. These are the exact
-images the live system serves. The `wallpaper_catalog` capsule embeds them and
-streams them to the `wallpaper` capsule, which paints the desktop background, so
-nothing here is decorative: it is the running set.
+The wallpaper collection shipped with the NØNOS desktop, created by Eric Jordan.
+These are the exact images the live system serves. The `wallpaper_catalog`
+capsule embeds them and streams them to the `wallpaper` capsule, which paints the
+desktop background, so nothing here is decorative: it is the running set.
 
 The order below matches the catalog, family by family and image by image, so
 scrolling this page walks the same sequence the OS offers. The canonical order
@@ -21,6 +21,10 @@ is also written out in [MANIFEST.txt](MANIFEST.txt).
 Each image is JPEG, stored under its family folder and named by the slug the
 catalog uses to address it. The full collection renders inline below, one after
 another.
+
+## Credits
+
+Every wallpaper in this collection was created by Eric Jordan.
 
 ## License
 
